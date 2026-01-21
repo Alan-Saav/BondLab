@@ -120,6 +120,7 @@ ui-debug.log
 database-debug.log
 hosting-debug.log
 firebase-debug.*.log
+lib/services/firebase_options.dart
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
